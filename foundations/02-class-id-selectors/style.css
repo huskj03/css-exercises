@@ -1,0 +1,22 @@
+.odds {
+    color:black;
+    background-color:lightcoral;
+    font-family: verdana, arial, sans-serif;  
+}
+
+.text-style{
+    font-family: verdana, sans-serif;
+    font-size: 24px;
+}
+
+#Number2 {
+    color:blue;
+    font-size: 36px;
+}
+
+#Number4 {
+    color: black;
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
